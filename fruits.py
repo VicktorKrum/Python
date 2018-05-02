@@ -5,3 +5,9 @@ while i < length: # give the condition
          print(fruits[i]) # the code block
          i += 1 # increment the counter
 print(length)
+
+#OUTPUT:
+apples
+oranges
+mangoes
+3
